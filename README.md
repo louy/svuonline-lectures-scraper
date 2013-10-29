@@ -10,9 +10,11 @@ After the configuration run the iMacros script to scrap sessions data.
 Now you will need to run the downloaded (which is a nodejs script)
 
 Be sure to install csv module first
-'''npm install csv'''
+
+    npm install csv
 
 Now just place the downloader in the folder which contain your courses folders and run it.
-'''node downloader.js'''
+
+    node downloader.js
 
 Enjoy!
